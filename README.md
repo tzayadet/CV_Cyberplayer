@@ -1,48 +1,45 @@
-# CV CYBERPLAYER
+# CV Cyberplayer
 
-Portfolio profesional interactivo en formato web. Combina la presentación de un perfil de ciberseguridad con una interfaz visual de inspiración cyberpunk y elementos de terminal.
+An interactive web portfolio and CV combining a cybersecurity profile with a terminal-inspired visual interface.
 
-**Demo:** https://tzayadet.github.io/CV_Cyberplayer/  
-**Código:** https://github.com/tzayadet/CV_Cyberplayer
+<p align="center">
+  <a href="https://tzayadet.github.io/CV_Cyberplayer/"><img src="https://img.shields.io/badge/LIVE_DEMO-OPEN-00a86b?style=flat-square" alt="Live demo"></a>
+  <a href="https://github.com/tzayadet/CV_Cyberplayer"><img src="https://img.shields.io/badge/SOURCE-GITHUB-161b22?style=flat-square&logo=github" alt="Source"></a>
+</p>
 
-## Contenido
+## Content
 
-- Presentación y experiencia profesional.
-- Formación y certificaciones.
-- Stack técnico y áreas de especialización.
-- Apartados de GRC, compliance, seguridad técnica, sistemas y programación.
-- Proyectos y práctica técnica.
-- Laboratorios y comunidades.
+- Professional profile and experience.
+- Education and certifications.
+- Technical skills and areas of interest.
+- GRC, compliance, security engineering, systems and programming.
+- Projects, labs and technical practice.
 
-## Elementos interactivos
+## Interactive elements
 
-- Terminal visual con secuencias y comandos simulados.
-- Alertas y paneles de estado ficticios.
-- Controles de audio.
-- Efectos visuales y cursor personalizado.
-- Diseño adaptable para distintas resoluciones.
+- Terminal-style visual sequences and simulated commands.
+- Demonstration alerts and status panels.
+- Audio controls.
+- Visual effects and responsive layout.
 
-## Uso
+## Use it
 
-Abre la [versión publicada](https://tzayadet.github.io/CV_Cyberplayer/) en un navegador moderno. Algunos navegadores restringen la reproducción automática de audio; utiliza los controles de la interfaz para iniciar o detener el sonido.
+Open the [live portfolio](https://tzayadet.github.io/CV_Cyberplayer/) in a modern browser. Some browsers block autoplay; use the interface controls to start or stop audio.
 
-## Tecnologías
+## Technology
 
-- HTML5
-- CSS3
-- JavaScript
-- APIs multimedia del navegador
+HTML5, CSS3, JavaScript and browser multimedia APIs.
 
-## Alcance
+## Scope and limitations
 
-Los comandos, alertas y métricas de la terminal son elementos visuales de demostración, no una sesión real de Kali Linux ni telemetría de un entorno operativo.
+Terminal commands, alerts and metrics are visual elements. They do not represent a real Kali Linux session, operational telemetry or an active security environment.
 
-El contenido profesional debe mantenerse actualizado antes de compartir el enlace como CV.
+Review the professional content before sharing the site as a current CV.
 
-## Despliegue
+## Deployment
 
-Sitio estático publicado mediante GitHub Pages. No requiere backend.
+Static website published through GitHub Pages. No backend is required.
 
-## Licencia
+## License
 
-Consulta [LICENSE](LICENSE).
+See [LICENSE](LICENSE) for the repository's licensing terms.
