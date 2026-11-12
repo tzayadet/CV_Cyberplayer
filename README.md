@@ -1,10 +1,15 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/PORTFOLIO-CV_CYBERPLAYER-101010?style=for-the-badge&labelColor=050805&color=00FF41" alt="CV Cyberplayer"/>
+  <img src="https://img.shields.io/badge/HTML_CSS_JS-INTERACTIVE_WEB-101010?style=for-the-badge&logo=javascript&logoColor=00FF41" alt="JavaScript"/>
+</p>
+
 # CV Cyberplayer
 
-An interactive web portfolio and CV combining a cybersecurity profile with a terminal-inspired visual interface.
+Interactive web portfolio and CV combining a cybersecurity profile with a terminal-inspired interface, visual demonstrations and audio controls.
 
 <p align="center">
-  <a href="https://tzayadet.github.io/CV_Cyberplayer/"><img src="https://img.shields.io/badge/LIVE_DEMO-OPEN-00a86b?style=flat-square" alt="Live demo"></a>
-  <a href="https://github.com/tzayadet/CV_Cyberplayer"><img src="https://img.shields.io/badge/SOURCE-GITHUB-161b22?style=flat-square&logo=github" alt="Source"></a>
+  <a href="https://tzayadet.github.io/CV_Cyberplayer/"><strong>LIVE PORTFOLIO ↗</strong></a> ·
+  <a href="https://github.com/tzayadet/CV_Cyberplayer"><strong>SOURCE CODE</strong></a>
 </p>
 
 ## Content
@@ -15,7 +20,7 @@ An interactive web portfolio and CV combining a cybersecurity profile with a ter
 - GRC, compliance, security engineering, systems and programming.
 - Projects, labs and technical practice.
 
-## Interactive elements
+## Interface
 
 - Terminal-style visual sequences and simulated commands.
 - Demonstration alerts and status panels.
@@ -28,13 +33,16 @@ Open the [live portfolio](https://tzayadet.github.io/CV_Cyberplayer/) in a moder
 
 ## Technology
 
-HTML5, CSS3, JavaScript and browser multimedia APIs.
+- HTML5
+- CSS3
+- JavaScript
+- Browser multimedia APIs
 
 ## Scope and limitations
 
 Terminal commands, alerts and metrics are visual elements. They do not represent a real Kali Linux session, operational telemetry or an active security environment.
 
-Review the professional content before sharing the site as a current CV.
+Review the professional content and contact details before sharing the site as a current CV.
 
 ## Deployment
 
